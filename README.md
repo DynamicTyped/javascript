@@ -1,5 +1,5 @@
-# Airbnb JavaScript Style Guide() {
-
+# DynamicTyped JavaScript Style Guide() {
+//heavily based off of Airbnb's style guide with a few tweaks specific to our needs
 *A mostly reasonable approach to JavaScript*
 
 
